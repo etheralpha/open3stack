@@ -18,7 +18,7 @@ We believe that having open source, permissionless, and privacy preserving tools
 - [Grid+](https://gridplus.io/) (firmware will be open sourced soon)
 
 #### RPC
-- Self-hosted
+- Self-hosted Node
 
 #### Smart Wallet
 - ?
