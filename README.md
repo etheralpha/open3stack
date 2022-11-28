@@ -21,27 +21,32 @@ We believe that having open source, permissionless, and privacy preserving tools
 - Self-hosted Node
 
 #### Smart Wallet
-- ?
+- TBD
 
 #### Desktop Wallet
 - [Tally](https://tallyho.org/)
 - [Frame](https://frame.sh/)
 
 #### Mobile Wallet
-- ?
+- TBD
 
 #### Browser Extension
 - [Tally](https://tallyho.org/)
 - [Frame](https://frame.sh/)
 
+#### Shielded Transfers
+- [Tornado Cash](https://github.com/tornadocash/tornado-classic-ui)
+
 #### Multisigs
 - [Gnosis Safe](https://gnosis-safe.io/)
 
 #### Exchange
-- ?
+- TBD
 
 #### Staking
-- [Solo Staking](https://ethereum.org/en/staking/solo/)
+- [Vanilla Solo Staking](https://ethereum.org/en/staking/solo/)
+- [Solo Staking w/ Dappnode](https://dappnode.io/)
+- [Solo Staking w/ Stereum](https://stereum.net/)
 - [Rocket Pool](https://stake.rocketpool.net/)
 
 #### Stablecoin
@@ -56,12 +61,17 @@ We believe that having open source, permissionless, and privacy preserving tools
 
 #### DNS
 - [ENS](https://ens.domains/) + [LIMO](https://eth.limo/)
+- [Handshake](https://handshake.org/)
 
 #### Storage
 - [IPFS](https://ipfs.tech/)
+- [Ceramic](https://ceramic.network/)
 
 #### Messaging
-- ?
+- [Hashchat](https://www.hashchat.xyz/)
+
+#### Code Management
+- [Radicle](https://radicle.xyz/)
 
 
 
