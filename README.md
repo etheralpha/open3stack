@@ -24,14 +24,12 @@ We believe that having open source, permissionless, and privacy preserving tools
 - TBD
 
 #### Desktop Wallet
-- [Tally](https://tallyho.org/)
 - [Frame](https://frame.sh/)
 
 #### Mobile Wallet
 - TBD
 
 #### Browser Extension
-- [Tally](https://tallyho.org/)
 - [Frame](https://frame.sh/)
 
 #### Shielded Transfers
