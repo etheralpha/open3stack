@@ -1,6 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/midnight.css">
-<link rel="icon" type="image/png" href="https://clientdiversity.org/assets/img/icons/favicon-32x32.png">
 
 
 # Open3Stack
